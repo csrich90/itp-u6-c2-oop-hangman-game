@@ -1,0 +1,5 @@
+[
+  "test_guess_attempt.py::test_guess_attempt_interface_hit",
+  "test_guess_attempt.py::test_guess_attempt_interface_miss",
+  "test_guess_attempt.py::test_guess_attempt_cant_be_both_hit_and_miss"
+]
